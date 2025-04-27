@@ -18,6 +18,7 @@ When I'm not coding, I love exploring new technologies, contributing to open-sou
 - 📧 Email: yeimyj.guarin16@gmail.com 
 - 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
 - 💻 GitHub: [@yeiguarin](https://github.com/yeiguarin)
+- 🌐 Portfolio: [Sooty - Yeimy's Portfolio](https://portafolio-web-sooty-nu.vercel.app/) 
 - 📷 Instagram: [![Instagram Badge](https://img.shields.io/badge/-@yeiguarin-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yeiguarin?igsh=YzljYTk1ODg3Zg==)](https://www.instagram.com/yeiguarin?igsh=YzljYTk1ODg3Zg==)
 
 ---
